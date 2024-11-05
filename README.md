@@ -4,14 +4,14 @@
 <strike>а тут перечёркнуто потому что <b>STRIKE</b> </strike><br>
 123
 <button> <strike>нерабочая кнопочка</strike> </button> <br> <br>
-<button onclick="window.location.href='http://www.ya.ru';"> кнопка-поисковик</button> <br><br><br>
+<button onclick="window.location.href='http://www.ya.ru';"> поискать </button> <br><br><br>
 
 
 
+<button onclick="window.location.href='http://www.hh.ru';"> поискать денежку </button>
 
 
-<button onclick="changeColor('blue')" class="blue"> Синий </button> <br>
-<button onclick="changeColor('red')" class="blue"> Красный </button>
+
 
 
 
