@@ -3,7 +3,7 @@
 <i>тут курсив, потому что italic</i><br>
 <strike>а тут перечёркнуто потому что <b>STRIKE</b> </strike><br>
 123
-<button> нерабочая кнопочка </button> <br> <br>
+<button> <strike>нерабочая кнопочка</strike> </button> <br> <br>
 <button onclick="https://ya.ru"> кнопка-поисковик</button>
 
 
