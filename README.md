@@ -4,7 +4,8 @@
 <strike>а тут перечёркнуто потому что <b>STRIKE</b> </strike><br>
 123
 <button> <strike>нерабочая кнопочка</strike> </button> <br> <br>
-<button onclick="https://ya.ru"> кнопка-поисковик</button>
+<button onclick="window.location.href='www.ya.ru';"> кнопка-поисковик</button>
+<button onclick="windows.location.href='https://nailsrussia.github.io/';> Ноготочки</button>
 
 
 
@@ -14,13 +15,6 @@
 
 
 
-
-<div>
-      <p class="name">freeCodeCamp</p>
-      <button onclick="changeColor('blue')" class="blue">Blue</button> <br>
-      <button onclick="changeColor('green')" class="green">Green</button> <br>
-      <button onclick="changeColor('orangered')" class="orange">Orange</button> <br>
-</div>
 
 
 </html>
