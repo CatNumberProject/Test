@@ -10,6 +10,7 @@
 
 
 <button onclick="changeColor('blue')" class="blue"> Синий </button>
+<button onclick="changeColor('red')" class="blue"> Красный </button>
 
 
 
