@@ -9,6 +9,15 @@
 
 
 <button onclick="window.location.href='http://www.hh.ru';"> поискать денежку </button><br><br><br><br><br><br>
+
+
+
+
+Милый котик - клик - ссылка
+
+
+a - ссылка, которую "упаковываем"
+img scr=адрес ссылки
 <a href="https://nailsrussia.github.io/">
 <img src="https://i.pinimg.com/736x/e8/8f/30/e88f3028afe762960b7a2c11837b34d1.jpg" width="600" height="200" width="600">
 </a>
