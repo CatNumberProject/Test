@@ -4,7 +4,7 @@
 <strike>а тут перечёркнуто потому что <b>STRIKE</b> </strike><br>
 123
 <button> <strike>нерабочая кнопочка</strike> </button> <br> <br>
-<button onclick="windows.location.href='www.ya.ru';"> кнопка-поисковик</button> <br>
+<button onclick="windows.location.href='www.ya.ru';"> кнопка-поисковик</button> <br><br><br>
 <button onclick="windows.location.href='https://nailsrussia.github.io/';> nails</button>
 
 
