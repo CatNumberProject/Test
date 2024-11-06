@@ -5,7 +5,10 @@
 Кнопочный полигон <br> <br> <br>
 <div class="three_buttons"> 
 <button>  <strike>нерабочая кнопочка</strike> </button> <br> <br>
-<button id="yandex" onclick="window.location.href='http://www.ya.ru';"> поискать </button> <br><br><br>
+<button id="yandex" onclick="window.location.href='http://www.ya.ru';"> поискать 
+<style> background-color:green;
+  </style>
+</button> <br><br><br>
 <button onclick="window.location.href='http://www.hh.ru';"> поискать денежку </button>
 </div>
 
