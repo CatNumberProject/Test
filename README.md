@@ -21,8 +21,8 @@ img scr=адрес ссылки</b>
 
 
 
-<style>
-#three_buttons {
+<style #three_buttons>
+  {
 font-size:25px;
 display:flex;
 flex-direction:column;
