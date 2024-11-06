@@ -30,7 +30,7 @@ justify-content:space-between;
 background-color:#ffcc00
 }
 .bad_button { 
-  background-color:#1c87c9 !important
+  text-shadow: 0.1em 0 #212121;
 }
   
 </style>
