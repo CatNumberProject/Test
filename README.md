@@ -4,7 +4,7 @@
 <strike>а тут перечёркнуто потому что <b>STRIKE</b> </strike><br>
 Кнопочный полигон <br> <br> <br>
 <div id="three_buttons"> 
-<button>  <strike>нерабочая кнопочка</strike> </button> <br> <br>
+<button> id="bad_button" <strike>нерабочая кнопочка</strike> </button> <br> <br>
 <button onclick="window.location.href='http://www.ya.ru';"> поискать </button> <br><br><br>
 <button onclick="window.location.href='http://www.hh.ru';"> поискать денежку </button>
 </div>
