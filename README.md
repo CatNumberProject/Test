@@ -25,12 +25,12 @@ img scr=адрес ссылки</b>
 #three_buttons {
 font-size:25px;
 display:flex;
-flex-direction:row;
-justify-content:row;
-background-color:"red";
+flex-direction:column;
+justify-content:space-between;
+background-color:#ffcc00
 }
 .bad_button { 
-  background-color:blue; !important;
+  background-color:#1c87c9 !important
 }
   
 </style>
