@@ -30,6 +30,10 @@ flex-direction:column;
 justify-content:space-between;
 background-color:#ffcc00
 }
+
+.bad_button {
+word-spacong:-3px;
+}
 </style>
 
 
