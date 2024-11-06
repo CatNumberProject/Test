@@ -32,7 +32,7 @@ background-color:#ffcc00
 }
 
 .bad_button {
-word-spacong:-3px;
+word-spacong:10px;
 }
 </style>
 
