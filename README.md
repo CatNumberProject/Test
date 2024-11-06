@@ -27,10 +27,10 @@ font-size:25px;
 display:flex;
 flex-direction:row;
 justify-content:row;
-background-color:"gold";
+background-color:"red";
 }
 .bad_button { 
-  font-size:10px !important
+  background-color:blue; !important;
 }
   
 </style>
