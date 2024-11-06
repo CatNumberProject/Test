@@ -3,9 +3,9 @@
 <i>тут курсив, потому что italic</i><br>
 <strike>а тут перечёркнуто потому что <b>STRIKE</b> </strike><br>
 Кнопочный полигон <br> <br> <br>
-<div id="three_buttons"> 
+<div class="three_buttons"> 
 <button>  <strike>нерабочая кнопочка</strike> </button> <br> <br>
-<button onclick="window.location.href='http://www.ya.ru';"> поискать </button> <br><br><br>
+<button id="yandex" onclick="window.location.href='http://www.ya.ru';"> поискать </button> <br><br><br>
 <button onclick="window.location.href='http://www.hh.ru';"> поискать денежку </button>
 </div>
 
@@ -20,11 +20,14 @@ img scr=адрес ссылки</b>
 
 
 <style>
-#three_buttons{
+.three_buttons{
 font-size:15px;
 display:flex;
 flex-direction:column;
 justify-content:space-between;
+}
+#yandex{
+background-color:"red" !important
 }
 </style>
 
