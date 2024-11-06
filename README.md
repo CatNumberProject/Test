@@ -25,7 +25,7 @@ font-size:15px;
 display:flex;
 flex-direction:column;
 justify-content:space-between;
-background-color:#008000;
+background-color:red;
 }
 #yandex{
 word-spacing:-5px;
