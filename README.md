@@ -23,8 +23,8 @@ img scr=адрес ссылки</b>
 
 <style>
 #three_buttons {
-font-size:200px;
-color:"red"
+font-size:75px;
+background-color:"gold"
 }
 
   
