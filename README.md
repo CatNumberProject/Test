@@ -28,7 +28,7 @@ font-size:25px;
 display:flex;
 flex-direction:column;
 justify-content:space-between;
-background-color:#ffcc00;
+background-color:#ffcc22;
 }
 </style>
 
