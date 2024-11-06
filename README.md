@@ -28,6 +28,10 @@ flex-direction:column;
 justify-content:space-between;
 background-color:red;
 }
+  #yandex{
+    font-size:5px
+    background-color:yellow !important;
+  }
 
 </style>
 
