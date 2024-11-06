@@ -31,7 +31,7 @@ justify-content:space-between;
 background-color:#ffcc00
 }
 
-.bad_button {
+#bad_button {
 word-spacong:10px;
 }
 </style>
