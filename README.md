@@ -21,7 +21,7 @@ img scr=адрес ссылки</b>
 
 
 
-<style >
+<style>
 #three_buttons
   {
 font-size:25px;
