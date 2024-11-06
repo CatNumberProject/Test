@@ -30,7 +30,7 @@ justify-content:row
 background-color:"gold"
 }
 .bad_button { 
-  font-size:10px
+  font-size:10px !important
 }
   
 </style>
