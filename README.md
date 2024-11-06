@@ -28,7 +28,7 @@ justify-content:space-between;
 background-color:#008000;
 }
 #yandex{
-word-spacing: -5px;
+word-spacing:-5px;
 fonz-size:20px;
 }
 </style>
