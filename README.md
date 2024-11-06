@@ -3,7 +3,7 @@
 <i>тут курсив, потому что italic</i><br>
 <strike>а тут перечёркнуто потому что <b>STRIKE</b> </strike><br>
 Кнопочный полигон <br> <br> <br>
-<div class="threebuttons"> 
+<div id="threebuttons"> 
 <button id="bad_button">  <strike>нерабочая кнопочка</strike> </button> <br> <br>
 <button onclick="window.location.href='http://www.ya.ru';"> поискать </button> <br><br><br>
 <button onclick="window.location.href='http://www.hh.ru';"> поискать денежку </button>
