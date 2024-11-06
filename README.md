@@ -29,9 +29,7 @@ flex-direction:column;
 justify-content:space-between;
 background-color:#ffcc00
 }
-.bad_button { 
-  text-shadow: 0.1em 0 #212121;
-}
+
   
 </style>
 
