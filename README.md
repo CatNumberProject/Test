@@ -32,13 +32,4 @@ background-color:#ffcc00
 }
 </style>
 
-<style>
-.bad_button {
-    word-spacing:-2px;
-    
-  }
-</style>
 
-
-
-</html>
