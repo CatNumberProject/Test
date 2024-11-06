@@ -28,11 +28,7 @@ font-size:25px;
 display:flex;
 flex-direction:column;
 justify-content:space-between;
-background-color:#ffcc00
-}
-
-#bad_button {
-word-spacong:10px;
+background-color:#ffcc00;
 }
 </style>
 
