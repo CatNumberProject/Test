@@ -10,7 +10,7 @@
 </div>
 
 
-
+<hidden>
 Милый котик - клик - ссылка<br>
 <b>a - ссылка, которую "упаковываем"
 img scr=адрес ссылки</b>
@@ -25,9 +25,11 @@ font-size:15px;
 display:flex;
 flex-direction:column;
 justify-content:space-between;
+background-color:#008000;
 }
 #yandex{
-word-spacing: 5px !important;
+word-spacing: -5px !important;
+fonz-size:20px !important;
 }
 </style>
 
