@@ -3,7 +3,7 @@
 <i>тут курсив, потому что italic</i><br>
 <strike>а тут перечёркнуто потому что <b>STRIKE</b> </strike><br>
 Кнопочный полигон <br> <br> <br>
-<div class="three_buttons"> 
+<div> 
 <button>  <strike>нерабочая кнопочка</strike> </button> <br> <br>
 <button id="yandex" onclick="window.location.href='http://www.ya.ru';"> поискать 
 </button> <br><br><br>
@@ -21,16 +21,9 @@ img scr=адрес ссылки</b>
 </div>
 
 <style>
-.three_buttons{
-font-size:15px;
-display:flex;
-flex-direction:column;
-justify-content:space-between;
-background-color:red;
-}
   #yandex{
-    font-size:5px
-    background-color:yellow !important;
+    font-size: 5px
+    background-color: yellow !important;
   }
 
 </style>
