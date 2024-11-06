@@ -28,8 +28,8 @@ justify-content:space-between;
 background-color:#008000;
 }
 #yandex{
-word-spacing: -5px !important;
-fonz-size:20px !important;
+word-spacing: -5px;
+fonz-size:20px;
 }
 </style>
 
