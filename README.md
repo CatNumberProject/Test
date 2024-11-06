@@ -6,8 +6,6 @@
 <div class="three_buttons"> 
 <button>  <strike>нерабочая кнопочка</strike> </button> <br> <br>
 <button id="yandex" onclick="window.location.href='http://www.ya.ru';"> поискать 
-<style> background-color:green;
-  </style>
 </button> <br><br><br>
 <button onclick="window.location.href='http://www.hh.ru';"> поискать денежку </button>
 </div>
@@ -30,10 +28,7 @@ flex-direction:column;
 justify-content:space-between;
 background-color:red;
 }
-#yandex{
-word-spacing:-5px;
-fonz-size:20px;
-}
+
 </style>
 
 </html>
