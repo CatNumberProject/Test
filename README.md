@@ -22,7 +22,7 @@ img scr=адрес ссылки</b>
 
 <style>
   #yandex{
-    font-size: 5px
+    font-size: 10px
     background-color:yellow;
   }
 
