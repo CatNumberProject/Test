@@ -7,7 +7,7 @@
 <button id="badbutton">  <strike>нерабочая кнопочка</strike> </button> <br> <br>
 <button id="yandex" onclick="window.location.href='http://www.ya.ru';"> поискать 
 </button> <br><br><br>
-<button onclick="window.location.href='http://www.hh.ru';"> поискать денежку </button>
+<button  id="hhru" onclick="window.location.href='http://www.hh.ru';"> поискать денежку </button>
 </div>
 
 
@@ -26,8 +26,15 @@
 #badbutton {
 
   font-size: 20px;
-  background-color: blue;
+  background-color: yellow;
 }
+  #hhru{
+    display:flex;
+    align-items:center;
+    font-size:15px;
+    background-colour: red;
+    
+  }
 </style>
 
 </html>
